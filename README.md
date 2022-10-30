@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shanmukh</h1>
 <h3 align="center">A fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xhecker&label=Profile%20views&color=0e75b6&style=flat" alt="0xhecker" /> </p>
 
 <p align="left"> <a href="https://twitter.com/msshanmukh" target="blank"><img src="https://img.shields.io/twitter/follow/msshanmukh?logo=twitter&style=for-the-badge" alt="msshanmukh" /></a> </p>
 
